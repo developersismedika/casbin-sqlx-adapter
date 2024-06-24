@@ -5,7 +5,7 @@ Based on [sqlx](https://github.com/jmoiron/sqlx), and tested in [MySQL](https://
 
 ## Installation
 
-    go get github.com/memwey/casbin-sqlx-adapter
+    go get github.com/developersismedika/casbin-sqlx-adapter
 
 ## NOTICE
 
